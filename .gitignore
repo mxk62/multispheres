@@ -1,0 +1,10 @@
+# Ignore MATLAB temporary files.
+*m~
+
+# Ignore runtime files.
+*dat
+*err
+*log
+*out
+*tmp
+*txt
